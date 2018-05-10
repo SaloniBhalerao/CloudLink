@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CloudLink Welcomes You</title>
+    <title>Welcome To CloudLink</title>
     <!-- jQUERY   -->
     <script
     src="http://code.jquery.com/jquery-3.2.1.min.js"
@@ -90,7 +90,7 @@
 	<div class="container" style="margin-top: 20px;">
         <div class="row">
             <div class="col-md-6 offset-md-3">
-                <button id="login" class="btn btn btn-lg btn-light btn-block" style="font-family:Times New Roman;color:black;border:1px solid #000;">Customer</button>
+                <button id="login" class="btn btn btn-lg btn-light btn-block" style="font-family:Times New Roman;color:black;border:1px solid #000;">User</button>
             </div>
         </div>
     </div>
