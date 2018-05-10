@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to CloudLink</title>
+    <title>CloudLink Welcomes You</title>
     <!-- jQUERY   -->
     <script
     src="http://code.jquery.com/jquery-3.2.1.min.js"
